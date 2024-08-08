@@ -26,7 +26,6 @@ output:
         on.exit(par(usr=usr))
         par(usr = c(usr[1:2], 0, .5))
         lines(density(x))
-        on.exit(par("usr" = usr))
      }
     
     # Fig. 5.1
