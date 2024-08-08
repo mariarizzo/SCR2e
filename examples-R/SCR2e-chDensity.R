@@ -6,7 +6,7 @@
 ###       January 2019                              ###
 ###                                                 ###
 ###       R code for Chapter 12                     ###
-###       Permutation Tests                         ###
+###       Probability Density Estimation            ###
 #######################################################
 
 # packages to install: ash, ggplot2 
